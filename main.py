@@ -1383,7 +1383,7 @@
     "    print(\"ФИНАЛЬНЫЙ РЕЗУЛЬТАТ:\")\n",
     "    print(\"=\" * 70)\n",
     "    print(f\"Выравнивание 1: {result1}\")\n",
-    "    print(f\"Выравнивание 2: {result2}\")\n",
+    #"    print(f\"Выравнивание 2: {result2}\")\n",
     "    print(f\"Общий score: {matrix[len(seq1)][len(seq2)]}\")\n",
     "\n",
     "\n",
