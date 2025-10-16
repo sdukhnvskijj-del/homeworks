@@ -13,7 +13,7 @@ motifs2 <- matrix(c(
   "t", "C", "G", "G", "A", "A", "A", "a", "t", "C", "a", "C"
 ), nrow = 10, byrow = TRUE)
 
-#2Преобразуйте матрицу в верхний регистр (toupper())
+#2Преобразуйте матрицу в верхний регистр (toupper()))
 
 motifs2_new <- toupper(motifs2)
 
