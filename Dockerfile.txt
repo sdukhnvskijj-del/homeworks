@@ -3,4 +3,3 @@ WORKDIR /app
 COPY hw_6.R /app/hw_6.R
 COPY Пациенты.xlsx /app/Пациенты.xlsx
 CMD ["Rscript", "/app/hw_6.R"]
-
